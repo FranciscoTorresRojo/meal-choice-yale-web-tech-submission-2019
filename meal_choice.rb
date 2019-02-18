@@ -1,7 +1,3 @@
-def takeBlock (meat)
-  if block__given?
-    yield vegan
-  else
-    meat
-  end 
-end
+def meal_choice("meat")
+  "#{meat}"
+end 
