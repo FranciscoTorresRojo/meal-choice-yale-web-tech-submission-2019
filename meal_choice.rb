@@ -1,4 +1,4 @@
-def meal_choice ("vegan")
+def meal_choice ("Meal")
   require_relative '../meal_choice'
   "#{meat}."
 end
